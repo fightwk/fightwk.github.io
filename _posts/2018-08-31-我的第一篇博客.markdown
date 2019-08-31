@@ -1,0 +1,7 @@
+# *我的第一篇博客*
+  从2019年8月份以来，我在CSDN和度娘上寻找各路大神，就为了能做出一个属于自己的博客网站。
+还好，如今皇天不负有心人，我最终把基本功能给弄好了。现在就发了自己的第一篇博客来纪念一下。
+![再牛逼的梦想，也停不住傻逼似的坚持]（https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%9C%89%E5%85%B3%E5%9D%9A%E6%8C%81%E7%9A%84%E5%9B%BE%E7%89%87&hs
+=2&pn=5&spn=0&di=15510&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2342272875%2C1643530943&os=3763755756%2C1278373106&simid=4047645234%2C4514931
+81&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E6%9C%89%E5%85%B3%E5%9D%9A%E6%8C%81%E7%9A%84%E5%9B%BE%E7%89%87&objurl=http%3A%2F%2Fimg.51test.net%2Fuploadf
+ile%2Fimages%2F2018%2F0620%2F15294599773363950.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bc8pjfp_z%26e3BgjpAzdH3Ffi5oAzdH3Fblmm89l_z%26e3Bip4s&gsm=0&islist=&querylist=）
