@@ -158,7 +158,7 @@ sidebar:
     enable: true
     img: //http://hbimg.b0.upaiyun.com/35c1bbf1039fed2470db2891c03a0ccae2ae23ee1d44-pHn81e_fw658 # 头像的地址
     info: <br>HBUT18级在读<br>软件大数据方向<br>永远喜欢民谣<br>兰博基尼<br>ACMer # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/#/song?id=1334295185&auto=0&height=32"></iframe>'
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
