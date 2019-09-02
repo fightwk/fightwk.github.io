@@ -156,7 +156,7 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=200 # 头像的地址
+    img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
     info: <br>HBUT18级在读<br>软件大数据方向<br>永远喜欢民谣<br>兰博基尼<br>ACMer # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/song/media/outer/url?id=562598065&auto=0&height=32"></iframe>'
   social:
