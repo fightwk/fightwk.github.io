@@ -166,21 +166,21 @@ sidebar:
   - title: w1826954318@126.com # email
     href: mailto:w1826954318@126.com
     class: 'fas fa-envelope fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: xiaowang # codeforces
+    href: //codeforces.com/profile/
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
+  - title: xiaowang # vjudge
+    href: //vjudge.net/user/
     class: 'fas fa-smile fa-fw'
   - title: 1826954318 # qq
     class: 'fab fa-qq fa-fw'
-  - title: Wu-_-Kan # weixin
+  - title: xiaowang # weixin
     class: 'fab fa-weixin fa-fw'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/fightwk
     class: 'fab fa-github fa-fw'
   - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
+    href: //www.zhihu.com/people/wang-dao-97-31/activities
     class: 'fab fa-zhihu fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
@@ -232,7 +232,7 @@ run_time:
 
 copyright:
   enable: true
-  text: <a href="//github.com/wu-kan/wu-kan.github.io">View on GitHub</a>
+  text: <a href="//github.com/fightwk/fightwk.github.io">View on GitHub</a>
 
 post:
   meta:
