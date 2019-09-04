@@ -156,7 +156,7 @@ katex: # KaTeX
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
+    img: //https://image.so.com/view?src=relation_qqimage&q=QQ%E5%A4%B4%E5%83%8F&pic_type=6&pic_style=11&pic_effect=14&box=box_tx&correct=QQ%E5%A4%B4%E5%83%8F&ancestor=list&cmsid=15cf7bb41c8e3f1c10eaf4596d70c8b4&cmran=0&cmras=1&cn=0&gn=0&kn=50&fsn=130&adstar=0&clw=254#id=4e392fc6833d155dc5a7d5e20f296216&currsn=0&ps=117&pc=117 # 头像的地址
     info: <br>HBUT18级在读<br>软件大数据方向<br>永远喜欢民谣<br>兰博基尼<br>ACMer # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
@@ -257,7 +257,7 @@ post:
     text: 如果我的博客帮助到你，可以请我喝一杯咖啡~
     img: # 万一真的有人打赏呢~
     - id: wechat
-      src: /public/image/wechatpay.jpg
+      src: /public/image/wechatpay.png
     - id: alipay
       src: /public/image/alipay.jpg
 
