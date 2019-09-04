@@ -1,7 +1,7 @@
 # 搭建个人博客
 &#8195;&#8195;在面对其他各种的公共博客网站里面的各种限制后，我不由得想自己搭建一个博客，在这里面
 可以很大限度的保持自己言论的自由性。那么在这里我就讲一些如何搭建属于自己的个人博客。
-****
+***
 ## 1.准备工作
 首先在GitHub官网上注册一个账号，
 ![注册GitHub](https://img-blog.csdn.net/20180101101023382?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -11,9 +11,8 @@
 键，点击fork进入Setting界面，把下面的名字改为**你的GitHub昵称+github.io**。
 ## 2.修改配置
 现在需要修改博客配置文件，在此之前，你需要先下载一个软件GitHub Desktop也就是GitHub的软件版
-，利用这个来上传你的博客与修改配置代码。
-  
-  先点击这个地方
+，利用这个来上传你的博客与修改配置代码。  
+先点击这个地方
 ![图片alt](https://img-blog.csdn.net/20180101105420490?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 系统会直接打开软件，点击clone
 ![图片alt](https://img-blog.csdn.net/20180101105536238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -29,7 +28,7 @@ Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFU
   查找64位的插件）
 具体导入方法网上有很多，也很简单，在这里就不细讲了。这是最后的效果图
 ![图片alt](/public/image/dajian1.png)
-****
+***
 因为我们的博客里面的内容都是我们复制别人的，所以需要你自己把一些信息改为你自己的，你可以
 打开_config.yml文件和你自己的博客页面对比，就知道哪些东西需要改了
 ![图片alt](https://img-blog.csdn.net/20180101110835242?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
@@ -37,7 +36,6 @@ Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFU
 选择对应的仓库，上传就好了。
 ![图片alt](https://img-blog.csdn.net/20180101112125849?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![图片alt](https://img-blog.csdn.net/20180101112152464?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
 ## 3.写博客
 前面已经把notepad++装好了，只需要在学习一些Markdown语法就可以写自己的博客了。在这里需要注意
 博客一般放在_post文件夹里，博客文件的格式为**年-月-日-文章标题.markdown**。这里就跟上面修改
