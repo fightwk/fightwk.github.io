@@ -1,7 +1,7 @@
 # 搭建个人博客
-&#8195;在面对其他各种的公共博客网站里面的各种限制后，我不由得想自己搭建一个博客，在这里面
+&#8195;&#8195;在面对其他各种的公共博客网站里面的各种限制后，我不由得想自己搭建一个博客，在这里面
 可以很大限度的保持自己言论的自由性。那么在这里我就讲一些如何搭建属于自己的个人博客。
-***
+****
 ## 1.准备工作
 首先在GitHub官网上注册一个账号，
 ![注册GitHub](https://img-blog.csdn.net/20180101101023382?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast ''注册GitHub'')
@@ -19,17 +19,19 @@
 ![图片alt](https://img-blog.csdn.net/20180101105536238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
 打开路径，然后选择使用Notepad++（一个很好用的文本编辑器，可以打开很多格式的文件）
 打开_config.yml这个文件，其中博客的一些基本配置会在这里，需要修改的可以自己进行修改
-**Notepad++下载地址：<https://notepad-plus-plus.org/**  >  
+**Notepad++下载地址：<https://notepad-plus-plus.org/ >** 
 ***
 在这里要说明的是，下载的时候有32位和64位两个版本，我推荐下载32位的。这样后面可以方便
 下载Markdown语法高亮和预览插件。  
-  Markdown语法高亮下载地址：<https://pan.baidu.com/s/1sgTDPzyRuJhWOchC0YnIOA>
-  Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFUj1Q>这里的Markdown预览插件
+  Markdown语法高亮下载地址：<https://pan.baidu.com/s/1sgTDPzyRuJhWOchC0YnIOA>  
+  
+  Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFUj1Q>  
+  这里的Markdown预览插件
   是32位的（我自己在网上没有找到64位的预览插件，这就是我下载32位Notepad++的原因，当然你们可以自己
   查找64位的插件）
 具体导入方法网上有很多，也很简单，在这里就不细讲了。这是最后的效果图
 ![图片alt](/public/image/dajian1.png)
-***
+****
 因为我们的博客里面的内容都是我们复制别人的，所以需要你自己把一些信息改为你自己的，你可以
 打开_config.yml文件和你自己的博客页面对比，就知道哪些东西需要改了
 ![图片alt](https://img-blog.csdn.net/20180101110835242?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
