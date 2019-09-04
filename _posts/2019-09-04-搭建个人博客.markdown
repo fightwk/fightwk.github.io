@@ -4,9 +4,9 @@
 ****
 ## 1.准备工作
 首先在GitHub官网上注册一个账号，
-![注册GitHub](https://img-blog.csdn.net/20180101101023382?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast ''注册GitHub'')
+![注册GitHub](https://img-blog.csdn.net/20180101101023382?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 然后在主题商店：<http://jekyllthemes.org/>上面选择一个自己喜欢的主题。
-![图片alt](https://img-blog.csdn.net/20180101102946632?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
+![图片alt](https://img-blog.csdn.net/20180101102946632?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 挑一个自己喜欢的点击，进去之后点击homepage,进入之后是一个GitHub的界面，在右上角找到fork
 键，点击fork进入Setting界面，把下面的名字改为**你的GitHub昵称+github.io**。
 ## 2.修改配置
@@ -14,20 +14,18 @@
 ，利用这个来上传你的博客与修改配置代码。
   
   先点击这个地方
-![图片alt](https://img-blog.csdn.net/20180101105420490?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
+![图片alt](https://img-blog.csdn.net/20180101105420490?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 系统会直接打开软件，点击clone
-![图片alt](https://img-blog.csdn.net/20180101105536238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
+![图片alt](https://img-blog.csdn.net/20180101105536238?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 打开路径，然后选择使用Notepad++（一个很好用的文本编辑器，可以打开很多格式的文件）
 打开_config.yml这个文件，其中博客的一些基本配置会在这里，需要修改的可以自己进行修改
 **Notepad++下载地址：<https://notepad-plus-plus.org/ >** 
 ***
 在这里要说明的是，下载的时候有32位和64位两个版本，我推荐下载32位的。这样后面可以方便
 下载Markdown语法高亮和预览插件。  
-  Markdown语法高亮下载地址：<https://pan.baidu.com/s/1sgTDPzyRuJhWOchC0YnIOA>  
-  
-  Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFUj1Q>  
-  这里的Markdown预览插件
-  是32位的（我自己在网上没有找到64位的预览插件，这就是我下载32位Notepad++的原因，当然你们可以自己
+Markdown语法高亮下载地址：<https://pan.baidu.com/s/1sgTDPzyRuJhWOchC0YnIOA>  
+Markdown预览插件下载地址：<https://pan.baidu.com/s/1ob0WD6Ensden1mO9IFUj1Q>  
+  这里的Markdown预览插件是32位的（我自己在网上没有找到64位的预览插件，这就是我下载32位Notepad++的原因，当然你们可以自己
   查找64位的插件）
 具体导入方法网上有很多，也很简单，在这里就不细讲了。这是最后的效果图
 ![图片alt](/public/image/dajian1.png)
@@ -37,8 +35,8 @@
 ![图片alt](https://img-blog.csdn.net/20180101110835242?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 这样就把一些关键信息修改完成，后期自己可以自己添加自己想添加的功能。点击保存，打开GitHub软件，
 选择对应的仓库，上传就好了。
-![图片alt](https://img-blog.csdn.net/20180101112125849?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
-![图片alt](https://img-blog.csdn.net/20180101112152464?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast )
+![图片alt](https://img-blog.csdn.net/20180101112125849?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![图片alt](https://img-blog.csdn.net/20180101112152464?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvSGFuZ2hhbmdf/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ## 3.写博客
 前面已经把notepad++装好了，只需要在学习一些Markdown语法就可以写自己的博客了。在这里需要注意
